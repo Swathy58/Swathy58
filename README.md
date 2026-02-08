@@ -1,3 +1,5 @@
+## 🤝 About Me
+
 👋 Hey there! I'm Swathy
 🎓 B.Tech CSE Student  
 💻 Interested in AI, LLMs, Software Development & IoT  
@@ -8,5 +10,5 @@
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](http://www.linkedin.com/in/swathy-j-665a96256)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:swathy582004@gmail.com)
